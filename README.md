@@ -9,3 +9,5 @@
 - do pliku README.md dodaj dowolną grafikę
 - zatwierdź zmiany i wyślij je do zdalnego repozytorium
 - link do repozytorium zapisz w pliku repo.txt i wgraj do SAKE
+
+![kotek wszib](src/cat.jpg)
